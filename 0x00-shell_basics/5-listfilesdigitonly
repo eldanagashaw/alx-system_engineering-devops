@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -1 -a -G
-ls -1 -a
+ls -1 -a -G  ls -1 -a
